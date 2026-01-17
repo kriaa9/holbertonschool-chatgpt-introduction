@@ -1,8 +1,3 @@
-#!/usr/bin/python3
-"""
-Factorial Calculator - Recursive Implementation
-This module computes the factorial of a given integer using recursion.
-"""
 import sys
 
 def factorial(n):
