@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """
 Minesweeper Game Implementation
 Objective: Clear all non-mine cells without hitting a mine.
